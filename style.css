@@ -1,0 +1,35 @@
+*{
+background-color: black;
+background-size: 100% 100%;
+
+}
+h1{
+    color: cornflowerblue;
+
+}
+img{
+    border: 15px solid rgb(12, 30, 189);
+    border-radius: 70px;
+    margin-left: 280px;
+    height: 350px;
+    inline-size: 450px;
+
+}
+li{
+    color: aqua;
+    margin-right: 900px;
+    font-size: 20px;
+    margin-top: 25px;
+}
+p{
+    color: gold;
+    margin-right: 900px;
+}
+h3{
+    color: gold;
+    margin-right: 900px;
+
+}
+h2{
+    color: green;
+}
